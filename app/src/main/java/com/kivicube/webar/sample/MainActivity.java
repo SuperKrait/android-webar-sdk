@@ -15,7 +15,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
 
         final EditText text = findViewById(R.id.url);
-        text.setText("https://www.kivicube.com/scenes/KnUpLGBbpOz4qmS3GgKYaX8A7njLesn6");
+        text.setText("https://www.kivicube.com/scenes/v1puLFjbm7bkNpMHvwgdOryO5zzxijJ0");
 
         Button start = findViewById(R.id.start);
         start.setOnClickListener(new Button.OnClickListener() {
